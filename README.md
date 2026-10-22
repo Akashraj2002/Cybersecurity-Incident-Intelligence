@@ -244,25 +244,19 @@ Store screenshots in the `Screenshots/` folder using these filenames.
 
 `Screenshots/Executive_Overview.png`
 
-```markdown
 ![Executive Overview Dashboard](Screenshots/Executive_Overview.png)
-```
 
 ### Threat Analysis
 
 `Screenshots/Threat_Analysis.png`
 
-```markdown
 ![Threat Analysis Dashboard](Screenshots/Threat_Analysis.png)
-```
 
 ### Geographic Impact Analysis
 
 `Screenshots/Geographic_Impact_Analysis.png`
 
-```markdown
 ![Geographic Impact Analysis Dashboard](Screenshots/Geographic_Impact_Analysis.png)
-```
 
 The images will render only after the corresponding screenshot files have been uploaded using those exact names.
 
